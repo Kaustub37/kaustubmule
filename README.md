@@ -49,7 +49,7 @@
 
 <p align="left"> <a href="https://twitter.com/mule_kaustub" target="blank"><img src="https://img.shields.io/twitter/follow/mule_kaustub?logo=twitter&style=for-the-badge" alt="mule_kaustub" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaustubmule&show_icons=true&locale=en&layout=compact" alt="kaustubmule" /></p>
-<br>
+<br><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kaustubmule&show_icons=true&locale=en" alt="kaustubmule" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubmule&" alt="kaustubmule" /></p>
