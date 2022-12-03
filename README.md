@@ -3,6 +3,7 @@
 <h3 align="center">A software engineer living in Mumbai, India.</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/gf675azxNAz2zDQ1vD/giphy.gif?cid=6c09b952hzeyoudrx19n0i8z8eyy5f152ms965izbpml33ya&rid=giphy.gif&ct=s">
 <br>
+
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Python , C++**
@@ -48,8 +49,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustubmule&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubmule" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mule_kaustub" target="blank"><img src="https://img.shields.io/twitter/follow/mule_kaustub?logo=twitter&style=for-the-badge" alt="mule_kaustub" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaustubmule&show_icons=true&locale=en&layout=compact" alt="kaustubmule" /></p>
-<br><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaustubmule&show_icons=true&locale=en&layout=compact" alt="kaustubmule" /></p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kaustubmule&show_icons=true&locale=en" alt="kaustubmule" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubmule&" alt="kaustubmule" /></p>
