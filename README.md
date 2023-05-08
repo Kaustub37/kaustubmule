@@ -19,7 +19,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kaustub_m_" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/kaustub-mule-0b4ba2217/" target="blank">
-    <img align="center" src="https://w7.pngwing.com/pngs/93/587/png-transparent-linkedin-logo-linkedin-logo-computer-icons-business-symbol-linkedin-icon-miscellaneous-blue-angle-thumbnail.png" alt="_kaustub_m_" height="30" width="35" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="_kaustub_m_" height="30" width="35" />
   </a>
   <a href="https://www.codechef.com/users/mp70322000207" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kaustub mule" height="30" width="40" />
